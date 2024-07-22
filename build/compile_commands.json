@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/joshu/Desktop/development/GTK_project/build",
+  "command": "C:\\Users\\joshu\\Desktop\\development\\winlibs-x86_64-posix-seh-gcc-14.1.0-llvm-18.1.5-mingw-w64ucrt-11.0.1-r1\\mingw64\\bin\\gcc.exe -DLIBDEFLATE_DLL -IC:/msys64/mingw64/include/gtk-4.0 -IC:/msys64/mingw64/include/pango-1.0 -IC:/msys64/mingw64/include/fribidi -IC:/msys64/mingw64/include -IC:/msys64/mingw64/include/harfbuzz -IC:/msys64/mingw64/include/gdk-pixbuf-2.0 -IC:/msys64/mingw64/include/webp -IC:/msys64/mingw64/include/cairo -IC:/msys64/mingw64/include/freetype2 -IC:/msys64/mingw64/include/libpng16 -IC:/msys64/mingw64/include/pixman-1 -IC:/msys64/mingw64/include/graphene-1.0 -IC:/msys64/mingw64/lib/graphene-1.0/include -IC:/msys64/mingw64/include/glib-2.0 -IC:/msys64/mingw64/lib/glib-2.0/include -g -std=gnu11   -mfpmath=sse -msse -msse2 -o CMakeFiles\\TutorialApp.dir\\main.c.obj -c C:\\Users\\joshu\\Desktop\\development\\GTK_project\\main.c",
+  "file": "C:\\Users\\joshu\\Desktop\\development\\GTK_project\\main.c",
+  "output": "CMakeFiles\\TutorialApp.dir\\main.c.obj"
+}
+]
